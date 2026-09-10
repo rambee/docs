@@ -7,4 +7,4 @@ brew update
 brew outdated
 ## Upgrade
 brew upgrade <br>
-brew upgrade <name>
+brew upgrade \<name\>
