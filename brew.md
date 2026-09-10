@@ -1,10 +1,10 @@
-#brew
-##Install
+# brew
+## Install
 brew install <name>
-##Update
+## Update
 brew update
-##List outdated items
+## List outdated items
 brew outdated
-##Upgrade
+## Upgrade
 brew upgrade
 brew upgrade <name>
