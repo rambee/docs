@@ -1,2 +1,6 @@
-```command -v \<command_name\>``` <br>
-```sips -s format jpeg input.heic --out output.jpg```
+```bash
+command -v \<command_name\>``` <br>
+
+```bash
+sips -s format jpeg input.heic --out output.jpg
+```
