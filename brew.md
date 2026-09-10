@@ -17,4 +17,4 @@ brew upgrade
 ```
 ```bash
 brew upgrade <name>
-```bash
+```
