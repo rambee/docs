@@ -13,7 +13,7 @@ brew outdated
 ```
 ## Upgrade
 ```bash
-brew upgrade <br>
+brew upgrade
 ```
 ```bash
 brew upgrade <name>
