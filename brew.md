@@ -6,5 +6,5 @@ brew update
 ## List outdated items
 brew outdated
 ## Upgrade
-brew upgrade
+brew upgrade <br>
 brew upgrade <name>
